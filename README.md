@@ -1,2 +1,0 @@
-# DotaWeb2
-DotaWeb
